@@ -1,4 +1,5 @@
 Discord: https://discord.com/invite/vHFqpwb3Rz
+
 The script notifies the police and the owner if a door is broken into
 
 # got to: ox_doorlock/client/utils and search for: ox_doorlock:setState
